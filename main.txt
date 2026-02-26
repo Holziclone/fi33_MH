@@ -7,3 +7,7 @@ print(a)
 c = 12/3
 
 print(c)
+
+d = 5-2
+
+print(d)
