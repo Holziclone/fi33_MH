@@ -3,3 +3,5 @@ print("HiHo!")
 a = 25
 
 print(a)
+
+print("Mir scheint die Sonne aus dem Arsch!")
