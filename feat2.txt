@@ -1,0 +1,5 @@
+print("HiHo!")
+
+a = 25
+
+print(a)
